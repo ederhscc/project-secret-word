@@ -39,7 +39,7 @@
 
 ## O Projeto 📚
 
-Este projeto é faz parte do aprendizado em React. Por isso, mais do que uma aplicação Web este jogo foi projetado para colocar em prática os conceitos iniciais da biblioteca React. 
+Este projeto faz parte do aprendizado em React. Por isso, mais do que uma aplicação Web este jogo foi projetado para colocar em prática os conceitos iniciais da biblioteca React. 
 
 <br>
 
@@ -84,7 +84,7 @@ npm run dev
 
 <br>
 
-## Links 🔗
+## Links 🔗https://secret-word-wheat.vercel.app/
 
 Deploy: 
 
