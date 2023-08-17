@@ -15,8 +15,11 @@
     padding: 1.5em;
     border: 20px solid #ECFA00;
     display: flex;
-    width: 90%;
     flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
 .letter,
