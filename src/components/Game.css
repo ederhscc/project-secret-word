@@ -1,3 +1,10 @@
+.game {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
 .game h1 {
     font-size: 2.5em;
 }
@@ -19,7 +26,7 @@
     text-align: center;
     justify-content: center;
     align-items: center;
-    width: 100%;
+    width: 90%;
 }
 
 .letter,
