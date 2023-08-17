@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-- Construir um jogo estilo Show do Milhão usando o React. 
+- Construir um jogo de advinhar palavras usando o React. 
 
 <br>
 
